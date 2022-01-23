@@ -8,7 +8,7 @@
 - 👯 Open to collaborate.
 - 👨‍💻 View my [Projects](https://github.com/abhinavrawat882?tab=repositories).
 - ⚡ Hobbies: FPS Shooters, Chess.
-- 📫 Contact me at **AbhinavRawat882@gmail.com**
+- 📫 Contact me at **abhinavrawat882@gmail.com**
 <br/>
 
 ---
